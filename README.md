@@ -3,9 +3,6 @@ This is done in response to the task given by BusinessOnBot https://www.craft.do
 # A math chatbot
 A spacy-powered, wikipedia-scraping Math Chatbot for Telegram
 
-### Audience
-High school and Senior high school students.
-
 ### Topic Inclusions
 Basic arithmetic, Algebra, Geometry and Trigonometry.
 
@@ -25,16 +22,11 @@ Basic arithmetic, Algebra, Geometry and Trigonometry.
 * Jupyter Notebook
 
 ### Recommendations
-* Saving of information to a database for multiple user sessions
-* Search 
-  * Include additional keywords for search
-  * Make bot more conversational
-* Compute
-  * Integrate additional mathematical functions for increased capability (Calculus, Matrix computations, Algebraic Functions, Finance, etc.)
-  * Support math word problems
-* Review
-  * Include concept and word problems 
-* Include a function that automatically exits the chatbot after it exceed a specific idle time.
+-Allow information to be saved in a database so that multiple user sessions can be supported.
+-Enhance the search feature by adding more keywords and making the chatbot more conversational.
+-Improve the compute feature by integrating more mathematical functions such as Calculus, Matrix computations, Algebraic -Functions, Finance, and supporting math word problems.
+-Expand the review feature to include both concept and word problems.
+-Implement an automatic exit function for the chatbot that triggers after a specific idle time has elapsed.
 
 
 ## How to run 🤖
