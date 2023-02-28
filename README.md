@@ -22,11 +22,11 @@ Basic arithmetic, Algebra, Geometry and Trigonometry.
 * Jupyter Notebook
 
 ### Recommendations
--Allow information to be saved in a database so that multiple user sessions can be supported.
--Enhance the search feature by adding more keywords and making the chatbot more conversational.
--Improve the compute feature by integrating more mathematical functions such as Calculus, Matrix computations, Algebraic -Functions, Finance, and supporting math word problems.
--Expand the review feature to include both concept and word problems.
--Implement an automatic exit function for the chatbot that triggers after a specific idle time has elapsed.
+* Allow information to be saved in a database so that multiple user sessions can be supported.
+* Enhance the search feature by adding more keywords and making the chatbot more conversational.
+* Improve the compute feature by integrating more mathematical functions such as Calculus, Matrix computations, Algebraic Functions, Finance, and supporting math word problems.
+* Expand the review feature to include both concept and word problems.
+* Implement an automatic exit function for the chatbot that triggers after a specific idle time has elapsed.
 
 
 ## How to run 🤖
